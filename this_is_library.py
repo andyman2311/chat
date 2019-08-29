@@ -1,8 +1,0 @@
-print("WHOS GOT THE POWER?")
-print("WE GOT THE POWER!")
-print("WHOS GOT THE POWER?")
-print("WE GOT THE POWER!")
-print("WHOS GOT THE POWER?")
-print("[he]WE GOT[He] THE POWER![HE]")
-print("....")
-print("This is Library")
